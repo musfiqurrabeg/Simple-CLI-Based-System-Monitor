@@ -2,7 +2,7 @@
 
 **Never miss a beat! Keep a watchful eye on your system's vital signs with this sleek, simple, and powerful performance logger.**
 
-![System Pulse Monitor in Action](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3670F7&center=true&vCenter=true&width=550&lines=Logging+CPU+and+Memory...;Timestamp%3A+2023-10-27+10%3A30%3A05;CPU%3A+12.5%25+%7C+Memory%3A+45.8%25;New+data+logged+successfully!)
+![System Monitor in Action](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3670F7&center=true&vCenter=true&width=550&lines=Logging+CPU+and+Memory...;Timestamp%3A+2023-10-27+10%3A30%3A05;CPU%3A+12.5%25+%7C+Memory%3A+45.8%25;New+data+logged+successfully!)
 
 ---
 
@@ -87,35 +87,6 @@ To stop the monitor, press Ctrl+C. Your log file will be waiting for you.
 📄 Log File Output
 The generated system_performance_log.csv file will look like this, perfect for importing into Excel, Google Sheets, or a data analysis script.
 
-timestamp
-
-cpu_percent
-
-memory_percent
-
-2023-10-27 10:30:05
-
-12.5
-
-45.8
-
-2023-10-27 10:30:10
-
-25.1
-
-46.2
-
-2023-10-27 10:30:15
-
-18.9
-
-46.1
-
-...
-
-...
-
-...
 
 ⚙️ Customization
 Want to log more or less frequently? It's easy!
